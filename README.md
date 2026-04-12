@@ -9,7 +9,7 @@ CS student from Chennai, building things with Java, the MERN stack, and Python
 I'm a Computer Science student currently exploring full-stack web development and backend engineering. Most of my work involves building practical applications — from academic mini-projects in Java to multi-module web systems using the MERN stack and Python. I enjoy working on real problems and learning by actually shipping things.
 
 - 📍 Chennai, Tamil Nadu, India
-- 🎓 B.E. / B.Tech Computer Science (in progress)
+- 🎓 B.E. Computer Science (student)
 - 🔭 Currently working on full-stack and AI-integrated projects
 - 🌱 Getting better at system design, APIs, and clean architecture
 
