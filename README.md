@@ -90,14 +90,6 @@ A Spring Boot REST API for managing menu items with standard CRUD operations. Bu
 - Improving how I structure and document projects
 - Building a personal portfolio site
 
----
-
-## GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YazheneS&show_icons=true&theme=default&hide_border=true&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YazheneS&layout=compact&theme=default&hide_border=true">
-</p>
 
 ---
 
