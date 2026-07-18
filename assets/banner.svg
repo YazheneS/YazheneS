@@ -1,0 +1,101 @@
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sky" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f0c29"/>
+      <stop offset="45%" stop-color="#1b1440"/>
+      <stop offset="100%" stop-color="#24243e"/>
+    </linearGradient>
+    <radialGradient id="planet1" cx="35%" cy="35%" r="70%">
+      <stop offset="0%" stop-color="#a78bfa"/>
+      <stop offset="60%" stop-color="#6d28d9"/>
+      <stop offset="100%" stop-color="#3b0764"/>
+    </radialGradient>
+    <radialGradient id="planet2" cx="35%" cy="35%" r="70%">
+      <stop offset="0%" stop-color="#7dd3fc"/>
+      <stop offset="60%" stop-color="#0ea5e9"/>
+      <stop offset="100%" stop-color="#075985"/>
+    </radialGradient>
+    <radialGradient id="moon" cx="35%" cy="35%" r="70%">
+      <stop offset="0%" stop-color="#fef3c7"/>
+      <stop offset="100%" stop-color="#d97706"/>
+    </radialGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#61DAFB" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#61DAFB" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#sky)"/>
+
+  <!-- stars -->
+  <g fill="#ffffff">
+    <circle cx="40" cy="30" r="1.4"><animate attributeName="opacity" values="1;0.2;1" dur="2.5s" repeatCount="indefinite"/></circle>
+    <circle cx="120" cy="80" r="1" opacity="0.7"/>
+    <circle cx="200" cy="20" r="1.6"><animate attributeName="opacity" values="0.3;1;0.3" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="300" cy="60" r="1" opacity="0.6"/>
+    <circle cx="380" cy="15" r="1.3"/>
+    <circle cx="460" cy="45" r="1" opacity="0.8"><animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/></circle>
+    <circle cx="560" cy="25" r="1.5"/>
+    <circle cx="640" cy="70" r="1" opacity="0.5"/>
+    <circle cx="720" cy="18" r="1.4"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="800" cy="55" r="1"/>
+    <circle cx="870" cy="90" r="1.2" opacity="0.6"/>
+    <circle cx="950" cy="30" r="1.4"><animate attributeName="opacity" values="1;0.3;1" dur="2.3s" repeatCount="indefinite"/></circle>
+    <circle cx="1030" cy="70" r="1" opacity="0.7"/>
+    <circle cx="1100" cy="20" r="1.6"/>
+    <circle cx="1160" cy="60" r="1" opacity="0.5"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="80" cy="220" r="1.3" opacity="0.6"/>
+    <circle cx="250" cy="250" r="1" opacity="0.5"/>
+    <circle cx="500" cy="260" r="1.4"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="1000" cy="240" r="1.2" opacity="0.7"/>
+    <circle cx="1120" cy="200" r="1"/>
+  </g>
+
+  <!-- distant moon top right -->
+  <circle cx="1090" cy="55" r="22" fill="url(#moon)" opacity="0.9"/>
+  <circle cx="1082" cy="47" r="3" fill="#b45309" opacity="0.4"/>
+  <circle cx="1098" cy="62" r="2" fill="#b45309" opacity="0.4"/>
+
+  <!-- ringed planet, top left -->
+  <g transform="translate(140,70)">
+    <ellipse cx="0" cy="0" rx="70" ry="18" fill="none" stroke="#c4b5fd" stroke-width="3" opacity="0.55" transform="rotate(-18)"/>
+    <circle cx="0" cy="0" r="34" fill="url(#planet1)"/>
+    <ellipse cx="0" cy="0" rx="70" ry="18" fill="none" stroke="#c4b5fd" stroke-width="3" opacity="0.85" transform="rotate(-18)" stroke-dasharray="0 220 200 0" clip-path="none"/>
+  </g>
+
+  <!-- glowing planet, bottom right -->
+  <g transform="translate(1000,235)">
+    <circle cx="0" cy="0" r="60" fill="url(#glow)"/>
+    <circle cx="0" cy="0" r="30" fill="url(#planet2)"/>
+    <path d="M -30 -5 Q 0 10 30 -2" stroke="#082f49" stroke-width="3" fill="none" opacity="0.35"/>
+    <path d="M -28 8 Q 0 20 28 10" stroke="#082f49" stroke-width="2.5" fill="none" opacity="0.3"/>
+  </g>
+
+  <!-- astronaut, floating center-right -->
+  <g transform="translate(870,150) rotate(-8)">
+    <animateTransform attributeName="transform" type="translate" values="870,150; 870,138; 870,150" dur="4s" repeatCount="indefinite" additive="sum"/>
+    <!-- tether -->
+    <path d="M -10 40 Q -60 10 -120 -30" stroke="#94a3b8" stroke-width="1.5" fill="none" opacity="0.5" stroke-dasharray="4 4"/>
+    <!-- backpack -->
+    <rect x="-16" y="2" width="20" height="30" rx="6" fill="#cbd5e1"/>
+    <!-- body -->
+    <ellipse cx="0" cy="20" rx="22" ry="28" fill="#f1f5f9"/>
+    <ellipse cx="0" cy="20" rx="22" ry="28" fill="none" stroke="#94a3b8" stroke-width="1.5"/>
+    <!-- chest panel -->
+    <rect x="-9" y="10" width="18" height="12" rx="3" fill="#61DAFB" opacity="0.8"/>
+    <!-- arms -->
+    <path d="M -20 8 Q -42 5 -46 -18" stroke="#f1f5f9" stroke-width="11" fill="none" stroke-linecap="round"/>
+    <path d="M 20 10 Q 40 25 34 48" stroke="#f1f5f9" stroke-width="11" fill="none" stroke-linecap="round"/>
+    <!-- legs -->
+    <path d="M -10 46 Q -16 66 -8 78" stroke="#f1f5f9" stroke-width="12" fill="none" stroke-linecap="round"/>
+    <path d="M 10 46 Q 18 64 12 78" stroke="#f1f5f9" stroke-width="12" fill="none" stroke-linecap="round"/>
+    <!-- helmet -->
+    <circle cx="0" cy="-16" r="20" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1.5"/>
+    <ellipse cx="-3" cy="-17" rx="12" ry="13" fill="#0ea5e9" opacity="0.55"/>
+    <ellipse cx="-8" cy="-23" rx="4" ry="3" fill="#ffffff" opacity="0.7"/>
+  </g>
+
+  <!-- title text -->
+  <text x="70" y="180" font-family="Verdana, Arial, sans-serif" font-size="46" font-weight="bold" fill="#f8fafc">Yazhene S</text>
+  <text x="70" y="215" font-family="Verdana, Arial, sans-serif" font-size="18" fill="#93c5fd">Full-Stack Developer · Exploring code, one orbit at a time 🚀</text>
+</svg>
