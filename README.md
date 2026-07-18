@@ -107,45 +107,48 @@ Automates generation of student result summaries and reports from structured dat
 <div align="center">
 
 **Languages**
+<div align="center">
+Languages
 <br/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Java-151b23?style=flat-square&logo=openjdk&logoColor=ED8B00">
+<img src="https://img.shields.io/badge/JavaScript-151b23?style=flat-square&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/C++-151b23?style=flat-square&logo=cplusplus&logoColor=00599C">
+<img src="https://img.shields.io/badge/C-151b23?style=flat-square&logo=c&logoColor=A8B9CC">
+<img src="https://img.shields.io/badge/Python-151b23?style=flat-square&logo=python&logoColor=3776AB">
+<img src="https://img.shields.io/badge/HTML5-151b23?style=flat-square&logo=html5&logoColor=E34F26">
+<img src="https://img.shields.io/badge/CSS3-151b23?style=flat-square&logo=css3&logoColor=1572B6">
 
-**Frontend**
+Frontend
 <br/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+<img src="https://img.shields.io/badge/React-151b23?style=flat-square&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Angular-151b23?style=flat-square&logo=angular&logoColor=DD0031">
+<img src="https://img.shields.io/badge/Vite-151b23?style=flat-square&logo=vite&logoColor=646CFF">
 
-**Backend**
+Backend
 <br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-151b23?style=flat-square&logo=nodedotjs&logoColor=339933">
+<img src="https://img.shields.io/badge/Express.js-151b23?style=flat-square&logo=express&logoColor=ffffff">
+<img src="https://img.shields.io/badge/FastAPI-151b23?style=flat-square&logo=fastapi&logoColor=009688">
+<img src="https://img.shields.io/badge/Spring_Boot-151b23?style=flat-square&logo=springboot&logoColor=6DB33F">
 
-**Databases**
+Databases
 <br/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-<img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+<img src="https://img.shields.io/badge/MongoDB-151b23?style=flat-square&logo=mongodb&logoColor=47A248">
+<img src="https://img.shields.io/badge/MySQL-151b23?style=flat-square&logo=mysql&logoColor=4479A1">
+<img src="https://img.shields.io/badge/Oracle_SQL-151b23?style=flat-square&logo=oracle&logoColor=F80000">
+<img src="https://img.shields.io/badge/Firestore-151b23?style=flat-square&logo=firebase&logoColor=FFCA28">
 
-**Mission Control (Cloud & Tools)**
+Mission Control (Cloud & Tools)
 <br/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/Firebase-151b23?style=flat-square&logo=firebase&logoColor=FFCA28">
+<img src="https://img.shields.io/badge/Azure-151b23?style=flat-square&logo=microsoftazure&logoColor=0078D4">
+<img src="https://img.shields.io/badge/Docker-151b23?style=flat-square&logo=docker&logoColor=2496ED">
+<img src="https://img.shields.io/badge/Git-151b23?style=flat-square&logo=git&logoColor=F05032">
+<img src="https://img.shields.io/badge/Postman-151b23?style=flat-square&logo=postman&logoColor=FF6C37">
+<img src="https://img.shields.io/badge/Figma-151b23?style=flat-square&logo=figma&logoColor=F24E1E">
 
 </div>
+
 
 <br/>
 
