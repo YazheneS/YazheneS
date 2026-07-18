@@ -14,6 +14,7 @@
 </div>
 
 <br/>
+<div align="center"><img src="assets/stars-divider.svg" width="100%" height="40"/></div>
 
 
 > Computer Science Engineering student focused on practical software, clear systems thinking, and clean, reliable interfaces.
@@ -28,6 +29,7 @@ I build software with an emphasis on clarity, structure, and usability. My work 
 - ⚡ **Flight Systems:** React/Node.js, Java/Spring Boot, Python
 
 <br clear="right"/>
+<div align="center"><img src="assets/stars-divider.svg" width="100%" height="40"/></div>
 
 ## 🪐 Explored Worlds — Projects
 
@@ -101,6 +103,7 @@ Automates generation of student result summaries and reports from structured dat
 </table>
 
 <br/>
+<div align="center"><img src="assets/stars-divider.svg" width="100%" height="40"/></div>
 
 ## ⚙️ Onboard Systems — Tech Stack
 
@@ -149,6 +152,7 @@ Automates generation of student result summaries and reports from structured dat
 
 
 <br/>
+<div align="center"><img src="assets/stars-divider.svg" width="100%" height="40"/></div>
 
 <div align="center">
 
