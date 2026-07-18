@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&duration=3000&color=61DAFB&center=true&vCenter=true&width=650&lines=Launching+MERN%2C+Java+%26+Python+builds+%F0%9F%9A%80;Navigating+full-stack+systems+%F0%9F%9A%80;Currently+orbiting%3A+AI-integrated+apps+%F0%9F%A6%8B" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&duration=3000&color=61DAFB&center=true&vCenter=true&width=650&lines=Launching+MERN%2C+Java+%26+Python+builds+%F0%9F%9A%80;Navigating+full-stack+systems+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -10,13 +10,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/yazhene-s)
 [![Gmail](https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:yazh.yazhene@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YazheneS&color=61DAFB&style=for-the-badge&label=MISSION+VIEWS)
 
 </div>
 
 <br/>
 
-## 🛰️ Mission Log
+
 
 > Computer Science Engineering student focused on practical software, clear systems thinking, and clean, reliable interfaces.
 
@@ -150,26 +149,12 @@ Automates generation of student result summaries and reports from structured dat
 
 <br/>
 
-## 📡 Telemetry — GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YazheneS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=61DAFB&icon_color=61DAFB" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YazheneS&theme=tokyonight&hide_border=true&background=0d1117&ring=61DAFB&fire=61DAFB" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YazheneS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=61DAFB" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YazheneS&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" />
-</div>
 
 <br/>
 
 <div align="center">
 
-*Signal received. Mission continues.* 🛸
+<hr/>
 
 📫 **yazh.yazhene@gmail.com** &nbsp;|&nbsp; **[linkedin.com/in/yazhene-s](https://www.linkedin.com/in/yazhene-s/)** &nbsp;|&nbsp; 🌐 **[yazhenes-portfolio.vercel.app](https://yazhenes-portfolio.vercel.app/)**
 
