@@ -1,103 +1,136 @@
-# Hi, I'm Yazhene S 👋
+<div align="center">
 
-CS student from Chennai, building things with Java, the MERN stack, and Python 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Yazhene+S+%F0%9F%91%8B;CS+Undergrad+%7C+Full-Stack+Developer;Building+with+MERN%2C+Java+%26+Python" alt="Typing SVG" />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yazhenes-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yazhene-s)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yazh.yazhene@gmail.com)
+
+</div>
+
+> Computer Science Engineering student focused on practical software, clear systems thinking, and clean, reliable interfaces.
 
 ---
 
-## About Me
+### 🧑‍💻 About Me
 
-I'm a Computer Science student currently exploring full-stack web development and backend engineering. Most of my work involves building practical applications — from academic mini-projects in Java to multi-module web systems using the MERN stack and Python. I enjoy working on real problems and learning by actually shipping things.
+I build software with an emphasis on clarity, structure, and usability. My work spans full-stack applications, APIs, and academic projects, where I focus equally on solid implementation and thoughtful user experience — backed by hands-on experience **deploying production-grade apps**, not just tutorial projects.
 
 - 📍 Chennai, Tamil Nadu, India
-- 🎓 B.E. Computer Science (student)
-- 🔭 Currently working on full-stack and AI-integrated projects
-- 🌱 Getting better at system design, APIs, and clean architecture
+- 🎓 B.E. Computer Science & Engineering — Madras Institute of Technology, Anna University (2024–2028)
+- 🔭 Currently building full-stack + AI-integrated projects
+- 🌱 Leveling up on system design, API architecture, and clean backend patterns
+- ⚡ Comfortable across React/Node.js, Java/Spring Boot, and Python
 
 ---
 
-## Tech Stack
+### 🚀 Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🩺 [Automated Prescription Digitization](https://github.com/YazheneS/doctorPrescription)**
+<br/>MERN · Azure Document Intelligence · Groq LLM
+
+Full-stack platform that digitizes handwritten prescriptions using Azure OCR + Groq LLM parsing — **85%+ extraction accuracy**, with role-based access (Doctor/Patient) via JWT. Independently deployed on an Azure VM with Nginx reverse proxy (SSL/TLS) + PM2.
+
+</td>
+<td width="50%" valign="top">
+
+**💰 [PocketCFO — AI Finance Platform](https://github.com/YazheneS/pocketCFO)**
+<br/>FastAPI · Chainlit · Ollama · Supabase · Docker
+
+Modular AI finance platform enabling natural-language transaction logging via an LLM-powered chat interface. Built FastAPI backend with full CRUD, filtering/pagination, and CSV/PDF export; containerized with Docker Compose.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🚔 [Traffic Police Management System](https://github.com/YazheneS/Traffic-police-management-system)**
+<br/>React · Node.js/Express · MySQL
+
+Full-stack platform for managing drivers, vehicles, violations, and challans, built across a **5-member team** with domain-based module ownership and a feature-branch/PR workflow across 6 parallel modules.
+
+</td>
+<td width="50%" valign="top">
+
+**🏫 [Club Management System](https://github.com/YazheneS/club-management)**
+<br/>JavaScript · Firebase · Firestore *(GDG Hackathon)*
+
+Full-stack club/event management app built at a Google Developer Groups hackathon. Real-time Firestore sync, Cloud Functions for registration limits/notifications, and role-based Firestore security rules (admin/lead/member).
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🍽️ [Menu Management API CRUD](https://github.com/YazheneS/Menu-Management-API-CRUD)**
+<br/>REST API · CRUD · Backend
+
+Backend service for structured menu data handling with a clean, API-driven CRUD workflow.
+
+</td>
+<td width="50%" valign="top">
+
+**📊 [Student Result Report Generator](https://github.com/YazheneS/Student-result-report-generator)**
+<br/>Automation · Reporting · Data Handling
+
+Automates generation of student result summaries and reports from structured data.
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack
 
 **Languages**
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<br/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 
 **Frontend**
-
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white">
+<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white">
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white">
 
 **Backend**
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"><img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white">
+<br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white">
 
 **Databases**
+<br/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat&logo=firebase&logoColor=black">
 
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white">
-
-**Tools & Platforms**
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"><img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
-
----
-
-## Projects
-
-### 🏥 Automated Prescription System
-A MERN stack application that digitizes handwritten prescriptions using Azure Document Intelligence (OCR) and Groq LLM for medication parsing. Features role-based access for doctors and patients, PDF export, and JWT authentication. Deployed on an Azure Ubuntu VM with Nginx and PM2.
-
-`React` `Node.js` `Express` `MongoDB` `Azure OCR` `Groq API`
-
----
-
-### 🚦 Traffic Police Management System
-A full-stack team project (5 members) to manage traffic violations, challans, drivers, vehicles, and officer records. Built with a React + Vite frontend, Node.js/Express backend, and MySQL database. Includes a login system, dashboard summary, and modular branch strategy.
-
-`React` `Vite` `Node.js` `Express` `MySQL`
-
----
-
-### 💰 Pocket CFO
-An AI-powered financial management platform for small businesses. Built as a Python monorepo with a FastAPI backend, Chainlit conversational UI, and a voice module using Groq for natural language transaction parsing. Supports Docker deployment and Supabase (PostgreSQL) for storage.
-
-`Python` `FastAPI` `Chainlit` `Ollama` `Supabase` `Docker`
-
----
-
-### 🎓 Student Result Report Generator
-A mini project built entirely in Java that generates student result reports. One of my earlier projects — focused on core Java programming and file-based output generation.
-
-`Java`
-
----
-
-### 🎓 Club Management App
-A college club management web app built during a hackathon. Supports real-time club membership, event management, role-based permissions (chairperson, moderator, etc.), and live chat rooms. Backed by Firebase Firestore with self-healing membership logic.
-
-`React` `TypeScript` `Node.js` `Firebase`
-
----
-
-### 🍽️ Menu Management API (CRUD)
-A Spring Boot REST API for managing menu items with standard CRUD operations. Built to practice Java backend development with Spring Boot.
-
-`Java` `Spring Boot`
-
----
-
-## What I'm Working On
-
-- Getting more comfortable with system design and writing cleaner backend code
-- Exploring AI API integrations (LLMs, OCR) in web applications
-- Improving how I structure and document projects
-- Building a personal portfolio site
+**Cloud & Tools**
+<br/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black">
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white">
 
 
 ---
 
-## Contact
+<div align="center">
 
-- 📧 Email: `yazh.yazhene@gmail.com`
-- 💼 LinkedIn: `www.linkedin.com/in/yazhene-saminathan-bb86b0376`
+📫 Reach me at **yazh.yazhene@gmail.com** &nbsp;|&nbsp; **[linkedin.com/in/yazhene-s](www.linkedin.com/in/yazhene-s/)** &nbsp;|&nbsp;🌐 **[yazhenes-portfolio.vercel.app](https://yazhenes-portfolio.vercel.app/)**
 
----
-
-<sub>Updated April 2026 · Chennai, India</sub>
+</div>
