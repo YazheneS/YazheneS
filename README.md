@@ -17,10 +17,11 @@
 <div align="center"><img src="assets/stars-divider.svg" width="100%" height="40"/></div>
 
 
-> Computer Science Engineering student focused on practical software, clear systems thinking, and clean, reliable interfaces.
+> **<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="55">** Computer Science Engineering student focused on practical software, clear systems thinking, and clean, reliable interfaces.
 
 I build software with an emphasis on clarity, structure, and usability. My work spans full-stack applications, APIs, and academic projects, where I focus equally on solid implementation and thoughtful user experience — backed by hands-on experience **deploying production-grade apps**, not just tutorial projects.
-<img src="assets/moon.svg" width="180" align="right"/>
+<br/>
+<img src="assets/moon.svg" width="180" align="left"/>
 
 - 📍 **Ground Control:** Chennai, Tamil Nadu, India
 - 🎓 **Training Base:** B.E. CSE, Madras Institute of Technology, Anna University (2024–2028)
@@ -28,7 +29,7 @@ I build software with an emphasis on clarity, structure, and usability. My work 
 - 🌱 **Next Frontier:** System design, API architecture, clean backend patterns
 - ⚡ **Flight Systems:** React/Node.js, Java/Spring Boot, Python
 
-<br clear="right"/>
+<br clear="left"/>
 <div align="center"><img src="assets/stars-divider.svg" width="100%" height="40"/></div>
 
 ## 🪐 Explored Worlds — Projects
@@ -106,9 +107,11 @@ Automates generation of student result summaries and reports from structured dat
 <div align="center"><img src="assets/stars-divider.svg" width="100%" height="40"/></div>
 
 ## ⚙️ Onboard Systems — Tech Stack
-
-<div align="center">
   
+<!--div align="center"-->
+  
+<img src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif" width="55%" height="55%" align="right">
+
 **Languages**
 <br/>
 <img src="https://img.shields.io/badge/Java-151b23?style=flat-square&logo=openjdk&logoColor=ED8B00">
@@ -148,7 +151,8 @@ Automates generation of student result summaries and reports from structured dat
 <img src="https://img.shields.io/badge/Postman-151b23?style=flat-square&logo=postman&logoColor=FF6C37">
 <img src="https://img.shields.io/badge/Figma-151b23?style=flat-square&logo=figma&logoColor=F24E1E">
 
-</div>
+<!--/div-->
+<br clear="right"/>
 
 
 <br/>
