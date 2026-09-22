@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%"/>
+<img src="assets/github-header-banner.png" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&duration=3000&color=61DAFB&center=true&vCenter=true&width=650&lines=Launching+MERN%2C+Java+%26+Python+builds+%F0%9F%9A%80;Navigating+full-stack+systems+%F0%9F%9A%80" alt="Typing SVG" />
 
