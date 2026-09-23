@@ -23,7 +23,7 @@
 - learn best by iterating till it clicks
 - lately reading up on agentic AI and generative AI
 
-<img src="assets/moon.svg" width="180" align="left"/>
+<img src="assets/moon.svg" width="180" align="left" hspace="80"/>
 
 <div align="right">
 📍 Chennai, India<br>
@@ -37,7 +37,7 @@
 <div align="center"><img src="assets/stars-divider.svg" width="100%" height="40"/></div>
 
  
-## <img src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTAxNjU1NTgsIm5iZiI6MTc5MDE2NTI1OCwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA5MjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTIzVDEyMDczOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM1ODUyYzhjYTA5MWM2MGNiNDdkNTg1ZTEzYzUyZjNmY2RiOTZjMDI3NDQwYzJiMzZjMTQ3YTExMjliODg0Y2EmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.--txfMdjAjWLuSHLB6915P3_T473wm9sbOYN7TRNBHw" width="35"> Projects
+## <img src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTAxNjU1NTgsIm5iZiI6MTc5MDE2NTI1OCwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA5MjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTIzVDEyMDczOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM1ODUyYzhjYTA5MWM2MGNiNDdkNTg1ZTEzYzUyZjNmY2RiOTZjMDI3NDQwYzJiMzZjMTQ3YTExMjliODg0Y2EmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.--txfMdjAjWLuSHLB6915P3_T473wm9sbOYN7TRNBHw" width="55"> Projects
 
 🌐 **SDN Traffic Prioritization** — `Ryu` `OpenFlow` `Networks`
   prioritizes network traffic using SDN
@@ -96,7 +96,7 @@
 
 <div align="center"><img src="assets/stars-divider.svg" width="100%" height="40"/></div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> Tech Stack
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> Tech Stack
   
 <img src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif" width="55%" height="70%" align="right">
 
@@ -150,7 +150,7 @@
 
 <div align="center"><img src="assets/stars-divider.svg" width="100%" height="40"/></div>
  
-## <img src="https://user-images.githubusercontent.com/74038190/250967443-f5384ba2-bf78-4be4-94be-4559c1827245.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTAxNjU1NTgsIm5iZiI6MTc5MDE2NTI1OCwicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc0NDMtZjUzODRiYTItYmY3OC00YmU0LTk0YmUtNDU1OWMxODI3MjQ1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA5MjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTIzVDEyMDczOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkxYTE0ZjEyYjA5ZjVhZWI0NDc0NGQ5MTNhNGM2NWVjZjc5ODdjMWM3Y2ExMzU2ZmE1MTY1MjQ2ZTljODNkMzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.NSQPV9iHcG_z7onLUMaSysVfzsbIrroko3n5bjbSVX4" width="50"> Activity
+## <img src="https://user-images.githubusercontent.com/74038190/250967443-f5384ba2-bf78-4be4-94be-4559c1827245.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTAxNjU1NTgsIm5iZiI6MTc5MDE2NTI1OCwicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc0NDMtZjUzODRiYTItYmY3OC00YmU0LTk0YmUtNDU1OWMxODI3MjQ1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA5MjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTIzVDEyMDczOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkxYTE0ZjEyYjA5ZjVhZWI0NDc0NGQ5MTNhNGM2NWVjZjc5ODdjMWM3Y2ExMzU2ZmE1MTY1MjQ2ZTljODNkMzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.NSQPV9iHcG_z7onLUMaSysVfzsbIrroko3n5bjbSVX4" width="100"> Activity
  
 <p align="center">
   <img src="https://raw.githubusercontent.com/YazheneS/YazheneS/main/dist/isocat.svg" width="120%" /><br/>
