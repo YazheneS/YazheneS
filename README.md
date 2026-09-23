@@ -98,9 +98,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> Tech Stack
   
-<!--div align="center"-->
-  
-<img src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif" width="55%" height="60%" align="right">
+<img src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif" width="55%" height="70%" align="right">
 
 **Languages**
 <br/>
@@ -146,8 +144,6 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-151b23?style=flat-square&logo=wireshark&logoColor=1679A7)
 ![GNU Bash](https://img.shields.io/badge/Shell_Scripting-151b23?style=flat-square&logo=gnubash&logoColor=4EAA25)
 
-
-<!--/div-->
 <br clear="right"/>
 
 <br/>
@@ -157,7 +153,7 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/250967443-f5384ba2-bf78-4be4-94be-4559c1827245.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTAxNjU1NTgsIm5iZiI6MTc5MDE2NTI1OCwicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc0NDMtZjUzODRiYTItYmY3OC00YmU0LTk0YmUtNDU1OWMxODI3MjQ1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA5MjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTIzVDEyMDczOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkxYTE0ZjEyYjA5ZjVhZWI0NDc0NGQ5MTNhNGM2NWVjZjc5ODdjMWM3Y2ExMzU2ZmE1MTY1MjQ2ZTljODNkMzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.NSQPV9iHcG_z7onLUMaSysVfzsbIrroko3n5bjbSVX4" width="50"> Activity
  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YazheneS/YazheneS/main/dist/isocat.svg" width="100%" /><br/>
+  <img src="https://raw.githubusercontent.com/YazheneS/YazheneS/main/dist/isocat.svg" width="120%" /><br/>
   <!--img src="https://raw.githubusercontent.com/YazheneS/YazheneS/main/dist/langs.svg" width="49%" /-->
 </p>
 
