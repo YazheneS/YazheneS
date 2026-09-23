@@ -15,96 +15,57 @@
 <div align="center"><img src="assets/stars-divider.svg" width="100%" height="40"/></div>
 
 
-> **<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="55">** Computer Science Engineering student focused on practical software, clear systems thinking, and clean, reliable interfaces.
+> **<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="55">** Computer Science Engineering student , mostly building full-stack + AI things
+- trying to actually ship what I build, not just demo it
+- learn best by iterating till it clicks
+- lately reading up on agentic AI and generative AI
 
-I build software with an emphasis on clarity, structure, and usability. My work spans full-stack applications, APIs, and academic projects, where I focus equally on solid implementation and thoughtful user experience — backed by hands-on experience **deploying production-grade apps**, not just tutorial projects.
-<br/>
+<br clear="left"/>
 <img src="assets/moon.svg" width="180" align="left"/>
 
-- 📍 **Ground Control:** Chennai, Tamil Nadu, India
-- 🎓 **Training Base:** B.E. CSE, Madras Institute of Technology, Anna University (2024–2028)
-- 🔭 **Current Orbit:** Full-stack + AI-integrated projects
-- 🌱 **Next Frontier:** System design, API architecture, clean backend patterns
-- ⚡ **Flight Systems:** React/Node.js, Java/Spring Boot, Python
+- 📍 **Chennai, India**
+- 🎓 **CSE @ Anna University, MIT Campus · 2024–2028**
+- 🔭 **building full-stack + AI-integrated projects**
+- 🌱 **exploring system design, backend patterns, agentic AI**
+- ⚡ **React · Node.js · Spring Boot · Python**
 
 <br clear="left"/>
 <div align="center"><img src="assets/stars-divider.svg" width="100%" height="40"/></div>
 
-## 🪐 Explored Worlds — Projects
+---
+ 
+### Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+- 🌐 **SDN Traffic Prioritization** — `Ryu` `OpenFlow` `Networks`
+  prioritizes network traffic using SDN
+  🔗 [repo](https://github.com/YazheneS/priority-based-network-trafficing)
+- 🖥️ **Xv6 Memory Management** — `C` `OS`
+  implements memory management for Xv6
+  🔗 [repo](https://github.com/YazheneS/Xv6-Memory-Management)
+- 🩺 **Prescription Digitization** — `MERN` `Azure OCR` `Groq LLM`
+  digitizes handwritten prescriptions with OCR+LLM
+  🔗 [repo](https://github.com/YazheneS/doctorPrescription)
+- 🏘️ **Tenant Portal** — `Spring Boot` `Payments` `OTP`
+  tenant management with payments and OTP
+- 💰 **PocketCFO** — `FastAPI` `Ollama` `Supabase`
+  logs expenses through a chat interface
+  🔗 [repo](https://github.com/YazheneS/pocketCFO)
+- 🚔 **Traffic Police Management System** — `React` `Node.js` `MySQL`
+  manages drivers, vehicles, and violations
+  🔗 [repo](https://github.com/YazheneS/Traffic-police-management-system)
+- 🏫 **Club Management System** — `JavaScript` `Firebase`
+  handles club events and registrations
+  🔗 [repo](https://github.com/YazheneS/club-management)
+- 🍽️ **Menu Management API** — `REST` `CRUD`
+  CRUD backend for menu data
+  🔗 [repo](https://github.com/YazheneS/Menu-Management-API-CRUD)
+- 📊 **Result Report Generator** — `Automation`
+  automates student result report generation
+  🔗 [repo](https://github.com/YazheneS/Student-result-report-generator)
 
-### 🩺 Automated Prescription Digitization
-**MERN · Azure Document Intelligence · Groq LLM**
+---
 
-Full-stack platform that digitizes handwritten prescriptions using Azure OCR + Groq LLM parsing — **85%+ extraction accuracy**, with role-based access (Doctor/Patient) via JWT. Independently deployed on an Azure VM with Nginx reverse proxy (SSL/TLS) + PM2.
-
-🔗 [Repository](https://github.com/YazheneS/doctorPrescription)
-
-</td>
-<td width="50%" valign="top">
-
-### 💰 PocketCFO — AI Finance Platform
-**FastAPI · Chainlit · Ollama · Supabase · Docker**
-
-Modular AI finance platform enabling natural-language transaction logging via an LLM-powered chat interface. FastAPI backend with full CRUD, filtering/pagination, CSV/PDF export; containerized with Docker Compose.
-
-🔗 [Repository](https://github.com/YazheneS/pocketCFO)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🚔 Traffic Police Management System
-**React · Node.js/Express · MySQL**
-
-Full-stack platform for managing drivers, vehicles, violations, and challans, built across a **5-member team** with domain-based module ownership and a feature-branch/PR workflow across 6 parallel modules.
-
-🔗 [Repository](https://github.com/YazheneS/Traffic-police-management-system)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏫 Club Management System
-**JavaScript · Firebase · Firestore** *(GDG Hackathon)*
-
-Full-stack club/event management app built at a Google Developer Groups hackathon. Real-time Firestore sync, Cloud Functions for registration limits/notifications, role-based security rules.
-
-🔗 [Repository](https://github.com/YazheneS/club-management)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🍽️ Menu Management API CRUD
-**REST API · CRUD · Backend**
-
-Backend service for structured menu data handling with a clean, API-driven CRUD workflow.
-
-🔗 [Repository](https://github.com/YazheneS/Menu-Management-API-CRUD)
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Student Result Report Generator
-**Automation · Reporting · Data Handling**
-
-Automates generation of student result summaries and reports from structured data.
-
-🔗 [Repository](https://github.com/YazheneS/Student-result-report-generator)
-
-</td>
-</tr>
-</table>
-
-<br/>
-<div align="center"><img src="assets/stars-divider.svg" width="100%" height="40"/></div>
-
-## ⚙️ Onboard Systems — Tech Stack
+## Tech Stack
   
 <!--div align="center"-->
   
@@ -112,42 +73,47 @@ Automates generation of student result summaries and reports from structured dat
 
 **Languages**
 <br/>
-<img src="https://img.shields.io/badge/Java-151b23?style=flat-square&logo=openjdk&logoColor=ED8B00">
-<img src="https://img.shields.io/badge/JavaScript-151b23?style=flat-square&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/C++-151b23?style=flat-square&logo=cplusplus&logoColor=00599C">
-<img src="https://img.shields.io/badge/C-151b23?style=flat-square&logo=c&logoColor=A8B9CC">
-<img src="https://img.shields.io/badge/Python-151b23?style=flat-square&logo=python&logoColor=3776AB">
-<img src="https://img.shields.io/badge/HTML5-151b23?style=flat-square&logo=html5&logoColor=E34F26">
-<img src="https://img.shields.io/badge/CSS3-151b23?style=flat-square&logo=css3&logoColor=1572B6">
+![Java](https://img.shields.io/badge/Java-151b23?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![JavaScript](https://img.shields.io/badge/JavaScript-151b23?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![C++](https://img.shields.io/badge/C++-151b23?style=flat-square&logo=cplusplus&logoColor=00599C)
+![C](https://img.shields.io/badge/C-151b23?style=flat-square&logo=c&logoColor=A8B9CC)
+![Python](https://img.shields.io/badge/Python-151b23?style=flat-square&logo=python&logoColor=3776AB)
+![HTML5](https://img.shields.io/badge/HTML5-151b23?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-151b23?style=flat-square&logo=css3&logoColor=1572B6)
 
 **Frontend**
 <br/>
-<img src="https://img.shields.io/badge/React-151b23?style=flat-square&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Angular-151b23?style=flat-square&logo=angular&logoColor=DD0031">
-<img src="https://img.shields.io/badge/Vite-151b23?style=flat-square&logo=vite&logoColor=646CFF">
-
+![React](https://img.shields.io/badge/React-151b23?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-151b23?style=flat-square&logo=angular&logoColor=DD0031)
+![Vite](https://img.shields.io/badge/Vite-151b23?style=flat-square&logo=vite&logoColor=646CFF)
 **Backend**
 <br/>
-<img src="https://img.shields.io/badge/Node.js-151b23?style=flat-square&logo=nodedotjs&logoColor=339933">
-<img src="https://img.shields.io/badge/Express.js-151b23?style=flat-square&logo=express&logoColor=ffffff">
-<img src="https://img.shields.io/badge/FastAPI-151b23?style=flat-square&logo=fastapi&logoColor=009688">
-<img src="https://img.shields.io/badge/Spring_Boot-151b23?style=flat-square&logo=springboot&logoColor=6DB33F">
+![Node.js](https://img.shields.io/badge/Node.js-151b23?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-151b23?style=flat-square&logo=express&logoColor=ffffff)
+![FastAPI](https://img.shields.io/badge/FastAPI-151b23?style=flat-square&logo=fastapi&logoColor=009688)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-151b23?style=flat-square&logo=springboot&logoColor=6DB33F)
 
 **Databases**
 <br/>
-<img src="https://img.shields.io/badge/MongoDB-151b23?style=flat-square&logo=mongodb&logoColor=47A248">
-<img src="https://img.shields.io/badge/MySQL-151b23?style=flat-square&logo=mysql&logoColor=4479A1">
-<img src="https://img.shields.io/badge/Oracle_SQL-151b23?style=flat-square&logo=oracle&logoColor=F80000">
-<img src="https://img.shields.io/badge/Firestore-151b23?style=flat-square&logo=firebase&logoColor=FFCA28">
+![MongoDB](https://img.shields.io/badge/MongoDB-151b23?style=flat-square&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-151b23?style=flat-square&logo=mysql&logoColor=4479A1)
+![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-151b23?style=flat-square&logo=oracle&logoColor=F80000)
+![Firestore](https://img.shields.io/badge/Firestore-151b23?style=flat-square&logo=firebase&logoColor=FFCA28)
 
-**Mission Control (Cloud & Tools)**
+**Tools**
 <br/>
-<img src="https://img.shields.io/badge/Firebase-151b23?style=flat-square&logo=firebase&logoColor=FFCA28">
-<img src="https://img.shields.io/badge/Azure-151b23?style=flat-square&logo=microsoftazure&logoColor=0078D4">
-<img src="https://img.shields.io/badge/Docker-151b23?style=flat-square&logo=docker&logoColor=2496ED">
-<img src="https://img.shields.io/badge/Git-151b23?style=flat-square&logo=git&logoColor=F05032">
-<img src="https://img.shields.io/badge/Postman-151b23?style=flat-square&logo=postman&logoColor=FF6C37">
-<img src="https://img.shields.io/badge/Figma-151b23?style=flat-square&logo=figma&logoColor=F24E1E">
+![Firebase](https://img.shields.io/badge/Firebase-151b23?style=flat-square&logo=firebase&logoColor=FFCA28)
+![Azure](https://img.shields.io/badge/Azure-151b23?style=flat-square&logo=microsoftazure&logoColor=0078D4)
+![Docker](https://img.shields.io/badge/Docker-151b23?style=flat-square&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-151b23?style=flat-square&logo=git&logoColor=F05032)
+![Postman](https://img.shields.io/badge/Postman-151b23?style=flat-square&logo=postman&logoColor=FF6C37)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-151b23?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-151b23?style=flat-square&logo=intellijidea&logoColor=000000&labelColor=151b23)
+![Figma](https://img.shields.io/badge/Figma-151b23?style=flat-square&logo=figma&logoColor=F24E1E)
+![Canva](https://img.shields.io/badge/Canva-151b23?style=flat-square&logo=canva&logoColor=00C4CC)
+![Wireshark](https://img.shields.io/badge/Wireshark-151b23?style=flat-square&logo=wireshark&logoColor=1679A7)
+![GNU Bash](https://img.shields.io/badge/Shell_Scripting-151b23?style=flat-square&logo=gnubash&logoColor=4EAA25)
+
 
 <!--/div-->
 <br clear="right"/>
@@ -157,6 +123,16 @@ Automates generation of student result summaries and reports from structured dat
 <div align="center"><img src="assets/stars-divider.svg" width="100%" height="40"/></div>
 
 <div align="center">
+
+---
+ 
+### activity
+ 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YazheneS/YazheneS/main/dist/isocat.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/YazheneS/YazheneS/main/dist/langs.svg" width="49%" />
+</p>
+---
 
 <hr/>
 
