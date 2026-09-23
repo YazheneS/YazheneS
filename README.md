@@ -152,17 +152,15 @@
 
 <br/>
 
-<div align="center">
-
 <div align="center"><img src="assets/stars-divider.svg" width="100%" height="40"/></div>
  
-## Activity
+## <img src="https://user-images.githubusercontent.com/74038190/250967443-f5384ba2-bf78-4be4-94be-4559c1827245.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTAxNjU1NTgsIm5iZiI6MTc5MDE2NTI1OCwicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc0NDMtZjUzODRiYTItYmY3OC00YmU0LTk0YmUtNDU1OWMxODI3MjQ1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA5MjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTIzVDEyMDczOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkxYTE0ZjEyYjA5ZjVhZWI0NDc0NGQ5MTNhNGM2NWVjZjc5ODdjMWM3Y2ExMzU2ZmE1MTY1MjQ2ZTljODNkMzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.NSQPV9iHcG_z7onLUMaSysVfzsbIrroko3n5bjbSVX4" width="50"> Activity
  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YazheneS/YazheneS/main/dist/isocat.svg" width="49%" />
-  <img src="https://raw.githubusercontent.com/YazheneS/YazheneS/main/dist/langs.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/YazheneS/YazheneS/main/dist/isocat.svg" width="100%" /><br/>
+  <!--img src="https://raw.githubusercontent.com/YazheneS/YazheneS/main/dist/langs.svg" width="49%" /-->
 </p>
 
 <div align="center"><img src="assets/stars-divider.svg" width="100%" height="40"/></div>
 
-</div>
+
