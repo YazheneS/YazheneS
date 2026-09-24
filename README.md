@@ -102,37 +102,37 @@
 
 **Languages**
 <br/>
-![Java](https://img.shields.io/badge/Java-151b23?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![JavaScript](https://img.shields.io/badge/JavaScript-151b23?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/C++-151b23?style=flat-square&logo=cplusplus&logoColor=00599C)
-![C](https://img.shields.io/badge/C-151b23?style=flat-square&logo=c&logoColor=A8B9CC)
-![Python](https://img.shields.io/badge/Python-151b23?style=flat-square&logo=python&logoColor=3776AB)
-![HTML5](https://img.shields.io/badge/HTML5-151b23?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-151b23?style=flat-square&logo=css3&logoColor=1572B6)
+![java](https://www.readmecodegen.com/api/social-icon?name=java&size=48)
+![javascript](https://www.readmecodegen.com/api/social-icon?name=javascript&size=48)
+![cplusplus](https://www.readmecodegen.com/api/social-icon?name=cplusplus&size=48)
+![c](https://www.readmecodegen.com/api/social-icon?name=c&size=48)
+![python](https://www.readmecodegen.com/api/social-icon?name=python&size=48)
+![html5](https://www.readmecodegen.com/api/social-icon?name=html5&size=48)
+![css3](https://www.readmecodegen.com/api/social-icon?name=css3&size=48)
 
 **Frontend**
 <br/>
-![React](https://img.shields.io/badge/React-151b23?style=flat-square&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-151b23?style=flat-square&logo=angular&logoColor=DD0031)
-![Vite](https://img.shields.io/badge/Vite-151b23?style=flat-square&logo=vite&logoColor=646CFF)
+![react](https://www.readmecodegen.com/api/social-icon?name=react&size=48)
+![angular](https://www.readmecodegen.com/api/social-icon?name=angular&size=48)
+![vite](https://www.readmecodegen.com/api/social-icon?name=vite&size=48)
 
 **Backend**
 <br/>
-![Node.js](https://img.shields.io/badge/Node.js-151b23?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Express.js](https://img.shields.io/badge/Express.js-151b23?style=flat-square&logo=express&logoColor=ffffff)
-![FastAPI](https://img.shields.io/badge/FastAPI-151b23?style=flat-square&logo=fastapi&logoColor=009688)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-151b23?style=flat-square&logo=springboot&logoColor=6DB33F)
+![nodejs](https://www.readmecodegen.com/api/social-icon?name=nodejs&size=48)
+![express](https://www.readmecodegen.com/api/social-icon?name=express&size=48&color=%23ffffff)
+![fastapi](https://www.readmecodegen.com/api/social-icon?name=fastapi&size=48)
+![springboot](https://www.readmecodegen.com/api/social-icon?name=springboot&size=48)
 
 **Databases**
 <br/>
-![MongoDB](https://img.shields.io/badge/MongoDB-151b23?style=flat-square&logo=mongodb&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL-151b23?style=flat-square&logo=mysql&logoColor=4479A1)
+![mongodb](https://www.readmecodegen.com/api/social-icon?name=mongodb&size=48)
+![mysql](https://www.readmecodegen.com/api/social-icon?name=mysql&size=48)
 ![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-151b23?style=flat-square&logo=oracle&logoColor=F80000)
-![Firestore](https://img.shields.io/badge/Firestore-151b23?style=flat-square&logo=firebase&logoColor=FFCA28)
+![firebase](https://www.readmecodegen.com/api/social-icon?name=firebase&size=48)
 
 **Tools**
 <br/>
-![Firebase](https://img.shields.io/badge/Firebase-151b23?style=flat-square&logo=firebase&logoColor=FFCA28)
+![firebase](https://www.readmecodegen.com/api/social-icon?name=firebase&size=48)
 ![Azure](https://img.shields.io/badge/Azure-151b23?style=flat-square&logo=microsoftazure&logoColor=0078D4)
 ![Docker](https://img.shields.io/badge/Docker-151b23?style=flat-square&logo=docker&logoColor=2496ED)
 ![Git](https://img.shields.io/badge/Git-151b23?style=flat-square&logo=git&logoColor=F05032)
