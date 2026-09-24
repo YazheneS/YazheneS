@@ -98,7 +98,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> Tech Stack
   
-<img src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif" width="60%" height="100%" align="right">
+<img src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif" width="55%" height="100%" align="right">
 
 **Languages**
 <br/>
