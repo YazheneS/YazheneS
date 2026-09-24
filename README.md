@@ -5,10 +5,10 @@
 <br/>
 
 <p align="center">
- <a href="mailto:yazh.yazhene@gmail.com"><img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="50" height="50"></a> ·  
+ <a href="mailto:yazh.yazhene@gmail.com"><img src="https://www.readmecodegen.com/api/social-icon?name=gmail&size=96&animation=breathe" width="50" height="50"></a> ·  
  <a href="https://www.linkedin.com/in/yazhene-s/">  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50" height="50"></a> · 
  <a href="https://yazhenes-portfolio.vercel.app/"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="50" height="50" /></a> .
- <a href="https://leetcode.com/u/YazheneS/"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="50" height="50" /></a>
+ <a href="https://leetcode.com/u/YazheneS/"><img src="https://www.readmecodegen.com/api/social-icon?name=code&size=96&animation=breathe&color=%23f59e0b" width="50" height="50" /></a>
 </p>
 
 
@@ -98,7 +98,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> Tech Stack
   
-<img src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif" width="55%" height="70%" align="right">
+<img src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif" width="60%" height="100%" align="right">
 
 **Languages**
 <br/>
@@ -127,22 +127,22 @@
 <br/>
 ![mongodb](https://www.readmecodegen.com/api/social-icon?name=mongodb&size=48)
 ![mysql](https://www.readmecodegen.com/api/social-icon?name=mysql&size=48)
-![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-151b23?style=flat-square&logo=oracle&logoColor=F80000)
+![Oracle SQL](https://img.icons8.com/?size=70&id=8ljTDYUEydbJ&format=png&color=000000)
 ![firebase](https://www.readmecodegen.com/api/social-icon?name=firebase&size=48)
 
 **Tools**
 <br/>
 ![firebase](https://www.readmecodegen.com/api/social-icon?name=firebase&size=48)
-![Azure](https://img.shields.io/badge/Azure-151b23?style=flat-square&logo=microsoftazure&logoColor=0078D4)
-![Docker](https://img.shields.io/badge/Docker-151b23?style=flat-square&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-151b23?style=flat-square&logo=git&logoColor=F05032)
-![Postman](https://img.shields.io/badge/Postman-151b23?style=flat-square&logo=postman&logoColor=FF6C37)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-151b23?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-151b23?style=flat-square&logo=intellijidea&logoColor=000000&labelColor=151b23)
-![Figma](https://img.shields.io/badge/Figma-151b23?style=flat-square&logo=figma&logoColor=F24E1E)
-![Canva](https://img.shields.io/badge/Canva-151b23?style=flat-square&logo=canva&logoColor=00C4CC)
-![Wireshark](https://img.shields.io/badge/Wireshark-151b23?style=flat-square&logo=wireshark&logoColor=1679A7)
-![GNU Bash](https://img.shields.io/badge/Shell_Scripting-151b23?style=flat-square&logo=gnubash&logoColor=4EAA25)
+<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/75b68d4d-f689-4509-b133-2207acbd2996" />
+![docker](https://www.readmecodegen.com/api/social-icon?name=docker&size=48)
+![git](https://www.readmecodegen.com/api/social-icon?name=git&size=48)
+![postman](https://www.readmecodegen.com/api/social-icon?name=postman&size=48)
+<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/26cca987-060a-4f0d-92a5-eff23ea513eb" />
+![intellijidea](https://www.readmecodegen.com/api/social-icon?name=intellijidea&size=48&color=%23ef4444)
+![figma](https://www.readmecodegen.com/api/social-icon?name=figma&size=48)
+![canva](https://www.readmecodegen.com/api/social-icon?name=canva&size=48)
+![wireshark](https://www.readmecodegen.com/api/social-icon?name=wireshark&size=48)
+![gnubash](https://www.readmecodegen.com/api/social-icon?name=gnubash&size=48)
 
 <br clear="right"/>
 
